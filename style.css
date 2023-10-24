@@ -10,11 +10,11 @@
 }
 
 :root {
-    --text: #EDF1F7;
-    --red: #C51212;
-    --blue: #0041C2;
-    --green: #14B02D;
-    --yellow: #ffc12b;
+    --text: #bad1f0;
+    --red: #f13d3d;
+    --blue: #073ba3;
+    --green: #52ec6c;
+    --yellow: #f3ef1b;
 }
 
 body,
@@ -39,4 +39,5 @@ button:hover {
 
     width: 100%;
     height: 100vh;
+    overflow: hidden;
 }
