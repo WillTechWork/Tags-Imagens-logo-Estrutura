@@ -51,7 +51,7 @@ header img {
 
 .navigation_link:hover::after {
     transform: scaleX(1);
-    transform-origin: left;
+    transform-origin: right;
     transition: transform 0.4s;
 
 }
